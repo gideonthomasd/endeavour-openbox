@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S bspwm sxhkd polybar lxterminal pulsemixer
+sudo pacman -S bspwm sxhkd polybar lxterminal pulsemixer dmenu
 
 mkdir -p ~/.config/sxhkd
 mkdir -p ~/.config/bspwm
