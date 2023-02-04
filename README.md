@@ -1,4 +1,4 @@
-#Use endeavour xfce (btrfs)
+# Use endeavour xfce (btrfs)
 
 chmod +x *.sh
 
