@@ -1,12 +1,8 @@
-# manjaro-i3
-
-Use the xfce4 Manjaro - not i3!
+#Use endeavour xfce (btrfs)
 
 chmod +x *.sh
 
-Run ./200_Openbox.sh
-
-In /etc/default/grub change GRUB_TIMEOUT_STYLE=hidden to GRUB_TIMEOUT_STYLE=menu then do sudo update-grub
+Run ./100_Openbox.sh and 110_bspwm.sh
 
 For audacious:
 Go to File - Settings - Plugins - General - Status Icon
@@ -14,3 +10,5 @@ Go to File - Settings - Plugins - General - Status Icon
 Click and change to system tray.
 
 In playlist go to 'Title Format' and change to 'Title-Artist'
+
+
