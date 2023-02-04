@@ -8,7 +8,7 @@
 #cd ..
 #############################################
 
-sudo pacman -S openbox obconf tint2 feh jgmenu lxappearance lxtask gtk2-perl lxsession pcmanfm xfce4-terminal conky rofi ttf-ubuntu-font-family geany picom neofetch yt-dlp parcellite audacious
+sudo pacman -S openbox obconf tint2 feh jgmenu lxappearance lxtask gtk2-perl lxsession pcmanfm xfce4-terminal conky rofi ttf-ubuntu-font-family geany picom neofetch yt-dlp parcellite audacious htop
 yay -S obmenu-generator brave-bin
 #sudo pacman -R xfce4-clipman-plugin
 
