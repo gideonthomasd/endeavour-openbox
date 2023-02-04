@@ -11,7 +11,7 @@ F12
 	pcmanfm
 
 F9
-	brave-browser
+	brave
 	
 super + p
 	dmenu_run -fn "Noto Sans Regular-16" -sb "#990000" -sf "#FFFF66" -p "Run: "
