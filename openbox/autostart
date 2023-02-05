@@ -1,6 +1,7 @@
 xrandr -s 1920x1080
 tint2 -c ~/.config/tint2/dracula.tint2rc &
 lxpolkit &
+feh --bg-fill --randomize ~/Pictures/wallpapers/xfce-leaves.svg &
 picom &
 #plank &
 conky -c ~/.config/conky/sysinfo_mbcolor.conkyrc &
