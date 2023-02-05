@@ -37,17 +37,17 @@ configuration {
 	background-color: #0c0816;
 	background: #D03C6E30;
 	foreground: #8fc5c6;
-	spacing: 5;
+	spacing: 0;
 }
 
 window {
-	location: center;
-	anchor: center;
+	location: west;
+	anchor: west;
 	height: 70%;
 	width: 25%;
 	orientation: vertical;
 	children: [mainbox];
-	border: 2px 2px 2px 2px;
+	border: 2px 2px 2px 0px;
 	border-color: @active-background;
 	hide-scrollbar: true;
 }
@@ -93,7 +93,7 @@ prompt{
 
 
 element {
-	padding: 8px;
+	padding: 10px;
 	border-radius: 50%;
 }
 
