@@ -6,6 +6,9 @@ yay -S timeshift timeshift-autosnap
 mkdir -p ~/.config/sxhkd
 mkdir -p ~/.config/bspwm
 mkdir -p ~/.config/polybar
+mkdir -p ~/Pictures/wallpapers
+
+cp xfce-leaves.svg ~/Pictures/wallpapers/xfce-leaves.svg
 
 cp mymenu.sh ~/mymenu.sh
 
