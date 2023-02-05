@@ -7,6 +7,8 @@ mkdir -p ~/.config/sxhkd
 mkdir -p ~/.config/bspwm
 mkdir -p ~/.config/polybar
 
+cp mymenu.sh ~/mymenu.sh
+
 cd polybar
 chmod +x *.sh
 cd ..
