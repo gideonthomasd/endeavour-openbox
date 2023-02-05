@@ -4,7 +4,7 @@
 
 # terminal emulator
 super + Return
-	roxterm
+	xfce4-terminal
 
 # file launcher
 F12
@@ -30,6 +30,12 @@ super + F1
 
 super + F3
 	lxtask
+
+~button2
+	~/mymenu.sh
+
+super + ~button3
+	~/mymenu.sh
 
 # make sxhkd reload its configuration files:
 super + Escape
