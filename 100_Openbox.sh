@@ -69,6 +69,7 @@ cd rofi
 cp -r * ~/.config/rofi
 cd ..
 
+chmod +x zentile_linux_amd64
 cp zentile_linux_amd64 ~/.config/zentile_linux_amd64
 
 sudo pacman -S ttf-mononoki-nerd
