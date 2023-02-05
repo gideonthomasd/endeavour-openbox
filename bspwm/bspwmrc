@@ -9,7 +9,8 @@ audacious &
 sxhkd &
 parcellite &
 ~/.config/polybar/panel.sh &
-lxappearance &
+#lxappearance &
+lxpolkit &
 
 bspc config border_width         2
 bspc config window_gap          12
