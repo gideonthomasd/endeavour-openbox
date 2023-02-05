@@ -5,6 +5,7 @@ pgrep -x sxhkd > /dev/null || sxhkd &
 bspc monitor -d I II III IV V VI VII VIII IX X
 
 xrandr -s 1920x1080
+feh --bg-fill --randomize ~/Pictures/wallpapers/xfce-leaves.svg &
 audacious &
 sxhkd &
 parcellite &
