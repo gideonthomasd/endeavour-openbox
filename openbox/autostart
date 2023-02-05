@@ -4,8 +4,9 @@ lxpolkit &
 picom &
 #plank &
 conky -c ~/.config/conky/sysinfo_mbcolor.conkyrc &
-~/.config/openbox/wallpaper.sh &
+#~/.config/openbox/wallpaper.sh &
 
-~/.config/openbox/kill.sh &
+#~/.config/openbox/kill.sh &
 audacious &
 lxappearance &
+~/.config/zentile_linux_amd64 &
