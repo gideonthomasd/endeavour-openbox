@@ -9,7 +9,8 @@
 #############################################
 
 sudo pacman -S openbox obconf tint2 feh jgmenu lxappearance lxtask gtk2-perl lxsession pcmanfm xfce4-terminal conky rofi ttf-ubuntu-font-family geany picom neofetch yt-dlp parcellite audacious htop
-yay -S obmenu-generator brave-bin
+yay -S obmenu-generator #brave-bin
+sudo pacman -S brave-bin
 #sudo pacman -R xfce4-clipman-plugin
 
 tar -xzvf obmenugenerator.tar.gz
@@ -74,8 +75,9 @@ cp zentile_linux_amd64 ~/.config/zentile_linux_amd64
 
 sudo pacman -S ttf-mononoki-nerd
 #yay -S nerd-fonts-mononoki
-yay -S dracula-icons-git
-yay -S dracula-gtk-theme
+sudo pacman -S dracula-icons-git dracula-gtk-theme-git
+#yay -S dracula-icons-git
+#yay -S dracula-gtk-theme
 
 obmenu-generator -p 
 
