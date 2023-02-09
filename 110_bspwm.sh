@@ -1,7 +1,8 @@
 #!/bin/bash
 
 sudo pacman -S bspwm sxhkd polybar lxterminal pulsemixer dmenu grub-btrfs
-yay -S timeshift timeshift-autosnap
+#yay -S timeshift timeshift-autosnap
+sudo pacman -S timeshift timeshift-autosnap pamac-nosnap
 
 mkdir -p ~/.config/sxhkd
 mkdir -p ~/.config/bspwm
